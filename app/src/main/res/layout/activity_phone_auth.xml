@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundpurple"
+    tools:context=".PhoneAuth">
+
+    <ImageView
+        android:id="@+id/logowalk"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="100dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/logocwhite"/>
+
+    <Button
+        android:id="@+id/click"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="50dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_main_background"
+        android:fontFamily="@font/source_sans_pro"
+        android:text="Começar"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundpurple"
+    tools:context=".Activity.RegisterProducts">
+
+    <Button
+        android:id="@+id/register_comps_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/input_background"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/colorSecondaryText"
+        android:text="Cadastro de Complementos"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/register_tops_btn"
+        android:layout_below="@+id/register_comps_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/input_background"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/colorSecondaryText"
+        android:text="Cadastro de Top 10 do Point"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/register_juices_btn"
+        android:layout_below="@+id/register_tops_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/input_background"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/colorSecondaryText"
+        android:text="Cadastro de Sucos"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/register_vitamins_btn"
+        android:layout_below="@+id/register_juices_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/input_background"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/colorSecondaryText"
+        android:text="Cadastro de Vitaminas"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/register_coberturas_fruit_salad_btn"
+        android:layout_below="@+id/register_vitamins_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/input_background"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/colorSecondaryText"
+        android:text="Cadastro de Coberturas Salada de Frutas"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/register_sizes_btn"
+        android:layout_below="@+id/register_coberturas_fruit_salad_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/input_background"
+        android:fontFamily="@font/source_sans_pro"
+        android:textColor="@color/colorSecondaryText"
+        android:text="Cadastro de Tamanhos de Copos"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
+
+</RelativeLayout>

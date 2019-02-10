@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#9733EE</color>
+    <color name="colorPrimaryDark">#834D9B</color>
+    <color name="colorAccent">#38EF7D</color>
+
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#646464</color>
+    <color name="colorGray">#646464</color>
+    <color name="colorTextWithe">#FFFFFF</color>
+
+    <color name="colorBaseGreen">#4CAF50</color>
+    <color name="colorBrown">#795548</color>
+
+    <color name="material_50">#E8F5E9</color>
+    <color name="material_500">#834D9B</color>
+    <color name="material_700">#38EF7D</color>
+    <color name="material_a200">#388E3C</color>
+    <color name="material_a700">#ffffff</color>
+    <color name="material_a700b">#ffffff</color>
+
+    <color name="paint_colors">#9733EE</color>
+
+    <color name="bgRowBackground">#FA315B</color>
+
+    <color name="textTabLight">#c4c4c4</color>
+    <color name="textTabBright">#ffffff</color>
+
+    <color name="outline_gray">#CCCCCC</color>
+
+</resources>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "476174283969",
+    "firebase_url": "https://o-point-do-acai-c1e28.firebaseio.com",
+    "project_id": "o-point-do-acai-c1e28",
+    "storage_bucket": "o-point-do-acai-c1e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476174283969:android:7d5ee52af5a644c7",
+        "android_client_info": {
+          "package_name": "com.devup.opointdoacai.opointdoacai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476174283969-f5ev3m9urk2con7581ggbnp37d761ioi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devup.opointdoacai.opointdoacai",
+            "certificate_hash": "defba1727aff7b722d9f795aa5830229c0535d01"
+          }
+        },
+        {
+          "client_id": "476174283969-2ont1oblbtrb96j01g53tc70ttiida2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUinUKCYskvriocVyJQul5kQ6IHVE8vo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476174283969-2ont1oblbtrb96j01g53tc70ttiida2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476174283969:android:6c0b193c9430bdac",
+        "android_client_info": {
+          "package_name": "com.devup.opointdoacai.opointdoacaiserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476174283969-5rfnnaicjs3b49ulnlurfnlllgn130nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devup.opointdoacai.opointdoacaiserver",
+            "certificate_hash": "defba1727aff7b722d9f795aa5830229c0535d01"
+          }
+        },
+        {
+          "client_id": "476174283969-2ont1oblbtrb96j01g53tc70ttiida2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUinUKCYskvriocVyJQul5kQ6IHVE8vo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476174283969-2ont1oblbtrb96j01g53tc70ttiida2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

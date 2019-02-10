@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="types_comp_array">
+        <item>Selecione o Tipo</item>
+        <item>mousse</item>
+        <item>fruta</item>
+        <item>complemento</item>
+        <item>cobertura</item>
+        <item>limitededition</item>
+    </string-array>
+
+    <string-array name="numbers_tops_array">
+        <item>Selecione a Posição</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="base_juices_array">
+        <item>Selecione a Base</item>
+        <item>Leite</item>
+        <item>Agua</item>
+    </string-array>
+
+</resources>
